@@ -1,4 +1,0 @@
-Python 2.x 
-IDE de desarrollo: Pycharm
-## status
-cambiado
